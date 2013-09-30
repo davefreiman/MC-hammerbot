@@ -1,0 +1,19 @@
+
+
+div div {
+ display: inline-block; 
+ float: left;
+ width: 195px;
+ height: 195px;
+}
+
+.left, .strafe-left, .do-nothing, .notifications {
+  clear: both;
+}
+
+div#background {
+  padding-top:10px;
+  height: 600px;
+  width: 600px;
+  background: url("http://preview.turbosquid.com/Preview/2012/02/09__08_15_08/Timone_Nave_3.jpg64defc7c-8e3b-4c8a-8c1c-7d33ef08d959Large.jpg") 20% 10% no-repeat;
+}
